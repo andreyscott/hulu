@@ -9,7 +9,7 @@ export default function Home({ results }) {
   return (
     <div>
       <Head>
-        <title>Hulu</title>
+        <title>Hulu X.2</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
