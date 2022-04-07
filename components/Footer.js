@@ -50,10 +50,10 @@ export default function Footer() {
           
           <a
             className="text-pink-500 hover:text-opacity-75"
-            href="https://instagram.com/_ai.tech"
+            href="https://instagram.com/_ai.dev"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Dribbble"
+            aria-label="Instagram"
           >
             <svg 
             className="w-8 h-8 hover:animate-bounce" 
