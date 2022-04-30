@@ -50,7 +50,7 @@ export default function Footer() {
           
           <a
             className="text-pink-500 hover:text-opacity-75"
-            href="https://instagram.com/_ai.dev"
+            href="https://instagram.com/itsandreydev"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram"
@@ -86,7 +86,7 @@ export default function Footer() {
   
           <a
             className="hover:opacity-75"
-            href="https://andrey-profile.web.app/"
+            href="https://andreyscott.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
